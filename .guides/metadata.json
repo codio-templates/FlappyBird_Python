@@ -32,18 +32,6 @@
    "reset": [],
    "teacherOnly": false,
    "learningObjectives": ""
-  },
-  {
-   "id": "51706552-24dd-1408-8ce5-d3bafaad1918",
-   "title": "Page 2",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Page-2-5170.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
   }
  ],
  "theme": "light",
